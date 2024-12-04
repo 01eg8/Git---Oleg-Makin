@@ -33,7 +33,7 @@ write text 21:18
 
 ### Задание 2
 
-https://github.com/netology-code/sys-pattern-homework/commit/1e9b253d1ed978d167b2d78852a145f9a3a51d08
+https://github.com/netology-code/sys-pattern-homework/commit/c7a31413eb474dd2008e60b4b8bfc35a27dc429c
 
 
 ### Задание 3
